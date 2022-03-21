@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# tribute-Page-Review
+# Tribute-Page-Review
 
-> This project builds a personal porfolio site. It is meant to
+> This repo is created in order to practise on the following areas:
 
 > ✔ Apply best practices in HTML code.
 
