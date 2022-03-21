@@ -1,14 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio-Mobile1
+# tribute-Page-Review
 
 > This project builds a personal porfolio site. It is meant to
 
-> ✔ understand how to parse a Figma design to create a UI.
+> ✔ Apply best practices in HTML code.
 
-> ✔ Use flexbox to place elements in the page.
+> ✔ Use semantic HTML tags.
 
-> ✔ Use images and backgrounds to enhance the look of the website.
+> ✔ Use CSS selectors correctly.
+
+> ✔ Use CSS box model.
+
+> ✔ Perform a code review for yourself on a past project.
 
 ## Built With
 
@@ -25,7 +29,10 @@ To get a local copy up, fork the project and clone to your local repository.
 
 ## Authors
 
-👤 - GitHub: [@jmoseka](https://github.com/jmoseka)
+👤
+
+- GitHub: [@jmoseka](https://github.com/jmoseka)
+- LinkedIn [Jamila Moseka](https://www.linkedin.com/in/jamila-moseka/)
 
 ## 🤝 Contributing
 
